@@ -1,2 +1,2 @@
 # Python-Finance
-The repo contains the details about Python in Finance
+The repo contains the details on Python in Finance
